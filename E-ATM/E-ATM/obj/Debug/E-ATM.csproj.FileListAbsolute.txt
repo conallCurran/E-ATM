@@ -1,0 +1,13 @@
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\bin\Debug\E-ATM.exe.config
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E-ATM.csprojResolveAssemblyReference.cache
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E_ATM.Properties.Resources.resources
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E-ATM.csproj.GenerateResource.Cache
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\bin\Debug\E-ATM.exe
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\bin\Debug\E-ATM.pdb
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E-ATM.exe
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E-ATM.pdb
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E_ATM.Login.resources
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E_ATM.Customer.resources
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E_ATM.AddFunds.resources
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E_ATM.DecreaseFunds.resources
+C:\Users\Conall Curran\OneDrive\C#\MyProjects\E-ATM\E-ATM\E-ATM\obj\Debug\E_ATM.Register.resources
